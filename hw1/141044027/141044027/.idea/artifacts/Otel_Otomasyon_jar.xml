@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Otel_Otomasyon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Otel_Otomasyon_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Otel_Otomasyon.jar">
+        <element id="module-output" name="Otel_Otomasyon" />
+      </element>
+      <element id="library" level="project" name="junit-4.12" />
+    </root>
+  </artifact>
+</component>

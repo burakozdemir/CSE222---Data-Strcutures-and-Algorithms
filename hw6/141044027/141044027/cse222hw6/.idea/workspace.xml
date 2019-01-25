@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4f87ded-99e9-4f7f-aba7-72ebbf4c812b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AVLTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Q3/AVLTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="462" column="56" lean-forward="true" selection-start-line="462" selection-start-column="56" selection-end-line="462" selection-end-column="56" />
+              <folding>
+                <element signature="class#AVLNode#0;class#AVLTree#0" />
+                <element signature="method#NodeToVector#0;class#AVLTree#0" />
+                <element signature="method#newTree#0;class#AVLTree#0" />
+                <element signature="method#refactor#0;class#AVLTree#0" />
+                <element signature="method#delete#0;class#AVLTree#0" />
+                <element signature="method#delete#1;class#AVLTree#0" />
+                <element signature="method#findLargestChild#0;class#AVLTree#0" />
+                <element signature="method#add#1;class#AVLTree#0" />
+                <element signature="method#rebalanceLeft#0;class#AVLTree#0" />
+                <element signature="method#rebalanceRight#0;class#AVLTree#0" />
+                <element signature="method#decrementBalance#0;class#AVLTree#0" />
+                <element signature="method#incrementBalance#0;class#AVLTree#0" />
+                <element signature="method#helper#0;class#AVLTree#0" />
+                <element signature="method#isBalanced#0;class#AVLTree#0" />
+                <element signature="method#height#0;class#AVLTree#0" />
+                <element signature="method#printLevelOrder#0;class#AVLTree#0" />
+                <element signature="method#printGivenLevel#0;class#AVLTree#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Q3/BinarySearchTreeWithRotate.java" />
+        <option value="$PROJECT_DIR$/src/Q1/RedBlackTree.java" />
+        <option value="$PROJECT_DIR$/src/Q2/BNode.java" />
+        <option value="$PROJECT_DIR$/src/Q3/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/Q3/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/Q3/AVLTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="683" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cse222hw6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cse222hw6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cse222hw6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cse222hw6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cse222hw6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cse222hw6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Q3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AVLTree">
+    <configuration name="AVLTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3.AVLTree" />
+      <module name="cse222hw6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="BTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2.BTree" />
+      <module name="cse222hw6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RedBlackTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1.RedBlackTree" />
+      <module name="cse222hw6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.RedBlackTree" />
+      <item itemvalue="Application.BTree" />
+      <item itemvalue="Application.AVLTree" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AVLTree" />
+        <item itemvalue="Application.BTree" />
+        <item itemvalue="Application.RedBlackTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4f87ded-99e9-4f7f-aba7-72ebbf4c812b" name="Default" comment="" />
+      <created>1526807576733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526807576733</updated>
+      <workItem from="1526807581175" duration="2583000" />
+      <workItem from="1526815130212" duration="1068000" />
+      <workItem from="1526823932015" duration="2422000" />
+      <workItem from="1526826587618" duration="95000" />
+      <workItem from="1526826796110" duration="157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6325000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3296" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" x="691" y="30" width="667" height="700" id="Run" order="2" type="WINDOWED" weight="0.75" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12737921" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Q3/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6834">
+          <caret line="402" column="26" lean-forward="true" selection-start-line="402" selection-start-column="26" selection-end-line="402" selection-end-column="26" />
+          <folding>
+            <element signature="class#AVLNode#0;class#AVLTree#0" />
+            <element signature="method#NodeToVector#0;class#AVLTree#0" />
+            <element signature="method#newTree#0;class#AVLTree#0" />
+            <element signature="method#refactor#0;class#AVLTree#0" />
+            <element signature="method#delete#0;class#AVLTree#0" />
+            <element signature="method#delete#1;class#AVLTree#0" />
+            <element signature="method#findLargestChild#0;class#AVLTree#0" />
+            <element signature="method#add#1;class#AVLTree#0" />
+            <element signature="method#rebalanceLeft#0;class#AVLTree#0" />
+            <element signature="method#rebalanceRight#0;class#AVLTree#0" />
+            <element signature="method#decrementBalance#0;class#AVLTree#0" />
+            <element signature="method#incrementBalance#0;class#AVLTree#0" />
+            <element signature="method#helper#0;class#AVLTree#0" />
+            <element signature="method#isBalanced#0;class#AVLTree#0" />
+            <element signature="method#height#0;class#AVLTree#0" />
+            <element signature="method#printLevelOrder#0;class#AVLTree#0" />
+            <element signature="method#printGivenLevel#0;class#AVLTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q3/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7004">
+          <caret line="412" column="42" lean-forward="true" selection-start-line="412" selection-start-column="42" selection-end-line="412" selection-end-column="42" />
+          <folding>
+            <element signature="class#AVLNode#0;class#AVLTree#0" />
+            <element signature="method#NodeToVector#0;class#AVLTree#0" />
+            <element signature="method#newTree#0;class#AVLTree#0" />
+            <element signature="method#refactor#0;class#AVLTree#0" />
+            <element signature="method#delete#0;class#AVLTree#0" />
+            <element signature="method#delete#1;class#AVLTree#0" />
+            <element signature="method#findLargestChild#0;class#AVLTree#0" />
+            <element signature="method#add#1;class#AVLTree#0" />
+            <element signature="method#rebalanceLeft#0;class#AVLTree#0" />
+            <element signature="method#rebalanceRight#0;class#AVLTree#0" />
+            <element signature="method#decrementBalance#0;class#AVLTree#0" />
+            <element signature="method#incrementBalance#0;class#AVLTree#0" />
+            <element signature="method#helper#0;class#AVLTree#0" />
+            <element signature="method#isBalanced#0;class#AVLTree#0" />
+            <element signature="method#height#0;class#AVLTree#0" />
+            <element signature="method#printLevelOrder#0;class#AVLTree#0" />
+            <element signature="method#printGivenLevel#0;class#AVLTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q3/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="226" column="22" lean-forward="true" selection-start-line="226" selection-start-column="22" selection-end-line="226" selection-end-column="22" />
+          <folding>
+            <element signature="class#AVLNode#0;class#AVLTree#0" />
+            <element signature="method#NodeToVector#0;class#AVLTree#0" />
+            <element signature="method#newTree#0;class#AVLTree#0" />
+            <element signature="method#refactor#0;class#AVLTree#0" />
+            <element signature="method#delete#0;class#AVLTree#0" />
+            <element signature="method#delete#1;class#AVLTree#0" />
+            <element signature="method#findLargestChild#0;class#AVLTree#0" />
+            <element signature="method#add#1;class#AVLTree#0" />
+            <element signature="method#rebalanceLeft#0;class#AVLTree#0" />
+            <element signature="method#rebalanceRight#0;class#AVLTree#0" />
+            <element signature="method#decrementBalance#0;class#AVLTree#0" />
+            <element signature="method#incrementBalance#0;class#AVLTree#0" />
+            <element signature="method#helper#0;class#AVLTree#0" />
+            <element signature="method#isBalanced#0;class#AVLTree#0" />
+            <element signature="method#height#0;class#AVLTree#0" />
+            <element signature="method#printLevelOrder#0;class#AVLTree#0" />
+            <element signature="method#printGivenLevel#0;class#AVLTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q3/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7157">
+          <caret line="421" column="25" lean-forward="true" selection-start-line="421" selection-start-column="25" selection-end-line="421" selection-end-column="25" />
+          <folding>
+            <element signature="class#AVLNode#0;class#AVLTree#0" />
+            <element signature="method#NodeToVector#0;class#AVLTree#0" />
+            <element signature="method#newTree#0;class#AVLTree#0" />
+            <element signature="method#refactor#0;class#AVLTree#0" />
+            <element signature="method#delete#0;class#AVLTree#0" />
+            <element signature="method#delete#1;class#AVLTree#0" />
+            <element signature="method#findLargestChild#0;class#AVLTree#0" />
+            <element signature="method#add#1;class#AVLTree#0" />
+            <element signature="method#rebalanceLeft#0;class#AVLTree#0" />
+            <element signature="method#rebalanceRight#0;class#AVLTree#0" />
+            <element signature="method#decrementBalance#0;class#AVLTree#0" />
+            <element signature="method#incrementBalance#0;class#AVLTree#0" />
+            <element signature="method#helper#0;class#AVLTree#0" />
+            <element signature="method#isBalanced#0;class#AVLTree#0" />
+            <element signature="method#height#0;class#AVLTree#0" />
+            <element signature="method#printLevelOrder#0;class#AVLTree#0" />
+            <element signature="method#printGivenLevel#0;class#AVLTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/RedBlackTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q1/RedBlackNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q2/BNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q3/SearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/AVLTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q3/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Node#0;class#BinaryTree#0" />
+            <element signature="method#BinaryTree#2;class#BinaryTree#0" />
+            <element signature="method#getLeftSubtree#0;class#BinaryTree#0" />
+            <element signature="method#getRightSubtree#0;class#BinaryTree#0" />
+            <element signature="method#getData#0;class#BinaryTree#0" />
+            <element signature="method#toString#0;class#BinaryTree#0" />
+            <element signature="method#preOrderTraverse#0;class#BinaryTree#0" />
+            <element signature="method#readBinaryTree#0;class#BinaryTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q3/BinarySearchTreeWithRotate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q3/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="method#find#1;class#BinarySearchTree#0" />
+            <element signature="method#add#1;class#BinarySearchTree#0" />
+            <element signature="method#delete#1;class#BinarySearchTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q1/RedBlackTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="293" column="7" lean-forward="true" selection-start-line="293" selection-start-column="7" selection-end-line="293" selection-end-column="7" />
+          <folding>
+            <element signature="method#RedBlackTree#0;class#RedBlackTree#0" />
+            <element signature="method#solaDondur#0;class#RedBlackTree#0" />
+            <element signature="method#solaDondurDuzenle#0;class#RedBlackTree#0" />
+            <element signature="method#sagaDondur#0;class#RedBlackTree#0" />
+            <element signature="method#sagaDondurDuzenle#0;class#RedBlackTree#0" />
+            <element signature="method#insert#1;class#RedBlackTree#0" />
+            <element signature="method#insertAndRefactor#0;class#RedBlackTree#0" />
+            <element signature="method#printLevelOrder#0;class#RedBlackTree#0" />
+            <element signature="method#height#0;class#RedBlackTree#0" />
+            <element signature="method#printGivenLevel#0;class#RedBlackTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q2/BTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="166" column="45" lean-forward="true" selection-start-line="166" selection-start-column="45" selection-end-line="166" selection-end-column="45" />
+          <folding>
+            <element signature="method#binarySearchInKeys#0;class#BTree#0" />
+            <element signature="method#binarySearchInChilds#0;class#BTree#0" />
+            <element signature="method#ayirma#0;class#BTree#0" />
+            <element signature="method#insertAgain#0;class#BTree#0" />
+            <element signature="method#insert#0;class#BTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q3/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="462" column="56" lean-forward="true" selection-start-line="462" selection-start-column="56" selection-end-line="462" selection-end-column="56" />
+          <folding>
+            <element signature="class#AVLNode#0;class#AVLTree#0" />
+            <element signature="method#NodeToVector#0;class#AVLTree#0" />
+            <element signature="method#newTree#0;class#AVLTree#0" />
+            <element signature="method#refactor#0;class#AVLTree#0" />
+            <element signature="method#delete#0;class#AVLTree#0" />
+            <element signature="method#delete#1;class#AVLTree#0" />
+            <element signature="method#findLargestChild#0;class#AVLTree#0" />
+            <element signature="method#add#1;class#AVLTree#0" />
+            <element signature="method#rebalanceLeft#0;class#AVLTree#0" />
+            <element signature="method#rebalanceRight#0;class#AVLTree#0" />
+            <element signature="method#decrementBalance#0;class#AVLTree#0" />
+            <element signature="method#incrementBalance#0;class#AVLTree#0" />
+            <element signature="method#helper#0;class#AVLTree#0" />
+            <element signature="method#isBalanced#0;class#AVLTree#0" />
+            <element signature="method#height#0;class#AVLTree#0" />
+            <element signature="method#printLevelOrder#0;class#AVLTree#0" />
+            <element signature="method#printGivenLevel#0;class#AVLTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
